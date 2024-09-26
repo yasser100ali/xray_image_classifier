@@ -1,4 +1,7 @@
 # xray image classifier
+
+Currently live at:  https://xray-predictor-d32405aa1b63.herokuapp.com
+
 A 3part file detailing how to build a convolutional neural network on a set of xray-images. Goal is to predict whether or not each image is 'normal'.
 Classes are split into two: 'No Findings' (normal), 'Has Findings'. 
 
